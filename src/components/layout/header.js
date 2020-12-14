@@ -1,10 +1,11 @@
 import React from 'react'
 
- function Header() {
+function Header() {
     return (
         <header style={headerStyle}>
-            <h1>TodoList</h1>
+            <h1>TaskList</h1>
         </header>
+        
     )
 }
 
